@@ -39,6 +39,8 @@ This project is a Power BI visualization dashboard created using the popular **S
 ## 📬 Contact
 
 For any questions or feedback, feel free to reach out!
+@ abhijeet.kuanr@gmail.com
+https://www.linkedin.com/in/abhijeet-kuanr-6a2672160/
 
 ---
 
